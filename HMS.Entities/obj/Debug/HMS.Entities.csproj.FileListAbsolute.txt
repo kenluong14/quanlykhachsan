@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\HMS\HMS.Entities\obj\Debug\HMS.Entities.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\HMS\HMS.Entities\bin\Debug\HMS.Entities.dll.config
+C:\Users\ASUS\source\repos\HMS\HMS.Entities\bin\Debug\HMS.Entities.dll
+C:\Users\ASUS\source\repos\HMS\HMS.Entities\bin\Debug\HMS.Entities.pdb
+C:\Users\ASUS\source\repos\HMS\HMS.Entities\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\source\repos\HMS\HMS.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\source\repos\HMS\HMS.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ASUS\source\repos\HMS\HMS.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ASUS\source\repos\HMS\HMS.Entities\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\source\repos\HMS\HMS.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\source\repos\HMS\HMS.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ASUS\source\repos\HMS\HMS.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ASUS\source\repos\HMS\HMS.Entities\obj\Debug\HMS.Entities.csproj.CopyComplete
+C:\Users\ASUS\source\repos\HMS\HMS.Entities\obj\Debug\HMS.Entities.dll
+C:\Users\ASUS\source\repos\HMS\HMS.Entities\obj\Debug\HMS.Entities.pdb
